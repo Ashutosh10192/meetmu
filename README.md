@@ -166,8 +166,4 @@ For questions about this implementation or suggestions for improvements, please 
 ## License & Acknowledgments
 This project uses open-source libraries including PyTorch, Transformers, and NLTK. Thanks to Hugging Face for providing pre-trained models suitable for offline deployment.
 
----
-Generated: October 7, 2025
-Project: Chat Response Recommendation System
-Framework: PyTorch + Transformers
-Status: Development Complete, Ready for Training
+
